@@ -1,6 +1,6 @@
 # 蚂蚁兼职
 
-！[兼职信息]（https://github.com/Forevertxp/PartJob/blob/master/ScreenShot/1.png）
+![兼职信息](https://github.com/Forevertxp/PartJob/blob/master/ScreenShot/1.png)
 ![兼职经验](https://github.com/Forevertxp/PartJob/blob/master/ScreenShot/2.png)
 ![企业认证](https://github.com/Forevertxp/PartJob/blob/master/ScreenShot/3.png)
 ![兼职申请](https://github.com/Forevertxp/PartJob/blob/master/ScreenShot/4.png)
